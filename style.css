@@ -11,7 +11,7 @@ img {
 }
 
 body {
-    background-image: url("https://wallpapercave.com/wp/wp3797973.jpg");
+    background-image: url("images/bg.jpg");
     background-color: #474e5d;
     background-repeat: no-repeat;
     background-position: center center;
@@ -131,7 +131,7 @@ a {
     }
 
     body {
-        background-image: url("https://wallpapercave.com/wp/wp2665462.jpg");
+        background-image: url("images/mob-bg.jpg");
         background-color: #474e5d;
         background-repeat: no-repeat;
         background-position: 0 0;
@@ -424,7 +424,7 @@ a {
     font-size: 40px;
     margin-bottom: 0px;
     color: #e8eaea;
-    font-family:"Roboto Slab",serif;
+    font-family: "Roboto Slab", serif;
 }
 
 @media screen and (max-width:500px) {
